@@ -1,4 +1,4 @@
-import { GET_USER, DELETE_USER, UPDATE_USER, UPDATE_PASSWORD } from "../actions/user.actions";
+import { GET_USER, DELETE_USER, UPDATE_USER, UPDATE_PASSWORD } from "../actions/userActions"
 
 const initialState:any = {}
 
